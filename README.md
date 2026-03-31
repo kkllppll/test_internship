@@ -2,6 +2,11 @@
 
 A REST API built with FastAPI for managing users and articles, with JWT authentication and role-based access control.
 
+
+## Live Demo
+
+- **Swagger UI**: https://internship-api-788212848133.europe-west1.run.app/docs
+
 ## Tech Stack
 
 - **FastAPI** - web framework
